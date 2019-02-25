@@ -5,7 +5,7 @@ class Module:
         # metadata info about the module, not modified during runtime
         self.info = {
             # name for the module that will appear in module menus
-            'Name': 'Webcam',
+            'Name': 'KeyChain Dump',
 
             # list of one or more authors for the module
             'Author': ['Juuso Salonen'],
